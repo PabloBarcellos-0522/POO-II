@@ -12,3 +12,17 @@ C:\DevC\Aula18082025\Aula18082025\obj\Debug\net9.0\refint\Aula18082025.dll
 C:\DevC\Aula18082025\Aula18082025\obj\Debug\net9.0\Aula18082025.pdb
 C:\DevC\Aula18082025\Aula18082025\obj\Debug\net9.0\Aula18082025.genruntimeconfig.cache
 C:\DevC\Aula18082025\Aula18082025\obj\Debug\net9.0\ref\Aula18082025.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\bin\Debug\net9.0\Aula18082025.exe
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\bin\Debug\net9.0\Aula18082025.deps.json
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\bin\Debug\net9.0\Aula18082025.runtimeconfig.json
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\bin\Debug\net9.0\Aula18082025.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\bin\Debug\net9.0\Aula18082025.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\obj\Debug\net9.0\Aula18082025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\obj\Debug\net9.0\Aula18082025.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\obj\Debug\net9.0\Aula18082025.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\obj\Debug\net9.0\Aula18082025.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\obj\Debug\net9.0\Aula18082025.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\obj\Debug\net9.0\refint\Aula18082025.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\obj\Debug\net9.0\Aula18082025.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\obj\Debug\net9.0\Aula18082025.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\Program\C#\POO-II-main\POO-II-main\Aula18082025\Aula18082025\obj\Debug\net9.0\ref\Aula18082025.dll
