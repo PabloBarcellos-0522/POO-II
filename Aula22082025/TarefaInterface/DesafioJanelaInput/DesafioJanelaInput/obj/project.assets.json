@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pablo/Documentos/POO-II/Aula22082025/WpfApp22082025/WpfApp22082025/WpfApp22082025.csproj",
-      "projectName": "WpfApp22082025",
-      "projectPath": "/home/pablo/Documentos/POO-II/Aula22082025/WpfApp22082025/WpfApp22082025/WpfApp22082025.csproj",
+      "projectUniqueName": "/home/pablo/Documentos/DesafioJanelaInput/DesafioJanelaInput/DesafioJanelaInput.csproj",
+      "projectName": "DesafioJanelaInput",
+      "projectPath": "/home/pablo/Documentos/DesafioJanelaInput/DesafioJanelaInput/DesafioJanelaInput.csproj",
       "packagesPath": "/home/pablo/.nuget/packages/",
-      "outputPath": "/home/pablo/Documentos/POO-II/Aula22082025/WpfApp22082025/WpfApp22082025/obj/",
+      "outputPath": "/home/pablo/Documentos/DesafioJanelaInput/DesafioJanelaInput/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pablo/.nuget/NuGet/NuGet.Config"

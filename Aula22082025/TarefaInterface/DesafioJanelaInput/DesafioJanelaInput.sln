@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioJanelaInput", "DesafioJanelaInput\DesafioJanelaInput.csproj", "{32DEF143-3F4C-42D6-ACB4-8995176A5FE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32DEF143-3F4C-42D6-ACB4-8995176A5FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DEF143-3F4C-42D6-ACB4-8995176A5FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DEF143-3F4C-42D6-ACB4-8995176A5FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DEF143-3F4C-42D6-ACB4-8995176A5FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E58B1965-B2D5-4746-B6F3-C2F188B40A8B}
+	EndGlobalSection
+EndGlobal
