@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConversorTemp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dce12be32b310dbb9e9fb46aecaa0ec6ba9a2a83")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConversorTemp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConversorTemp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\DevC\\ConversorTemp\\",
+  "WorkspaceRootPath": "C:\\Users\\pablo\\OneDrive\\\u00C1rea de Trabalho\\Program\\POO-II\\Aula25082025\\ConversorTemp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A59D499C-BCA4-458D-BE05-5BC5D2B84F5A}|ConversorTemp\\ConversorTemp.csproj|c:\\devc\\conversortemp\\conversortemp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A59D499C-BCA4-458D-BE05-5BC5D2B84F5A}|ConversorTemp\\ConversorTemp.csproj|solutionrelative:conversortemp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\\u00C1rea de Trabalho\\Program\\POO-II\\Aula25082025\\ConversorTemp\\ConversorTemp\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConversorTemp\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A59D499C-BCA4-458D-BE05-5BC5D2B84F5A}|ConversorTemp\\ConversorTemp.csproj|c:\\devc\\conversortemp\\conversortemp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A59D499C-BCA4-458D-BE05-5BC5D2B84F5A}|ConversorTemp\\ConversorTemp.csproj|solutionrelative:conversortemp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pablo\\OneDrive\\\u00C1rea de Trabalho\\Program\\POO-II\\Aula25082025\\ConversorTemp\\ConversorTemp\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConversorTemp\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,10 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\DevC\\ConversorTemp\\ConversorTemp\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\\u00C1rea de Trabalho\\Program\\POO-II\\Aula25082025\\ConversorTemp\\ConversorTemp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ConversorTemp\\MainWindow.xaml",
-              "ToolTip": "C:\\DevC\\ConversorTemp\\ConversorTemp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\\u00C1rea de Trabalho\\Program\\POO-II\\Aula25082025\\ConversorTemp\\ConversorTemp\\MainWindow.xaml",
               "RelativeToolTip": "ConversorTemp\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-08-25T12:36:23.363Z",
               "EditorCaption": ""
@@ -40,14 +41,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\DevC\\ConversorTemp\\ConversorTemp\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pablo\\OneDrive\\\u00C1rea de Trabalho\\Program\\POO-II\\Aula25082025\\ConversorTemp\\ConversorTemp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ConversorTemp\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\DevC\\ConversorTemp\\ConversorTemp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pablo\\OneDrive\\\u00C1rea de Trabalho\\Program\\POO-II\\Aula25082025\\ConversorTemp\\ConversorTemp\\MainWindow.xaml.cs",
               "RelativeToolTip": "ConversorTemp\\MainWindow.xaml.cs",
               "ViewState": "AgIAABEAAAAAAAAAAADwvy8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T12:36:23.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T12:36:23.065Z"
             }
           ]
         }
